@@ -47,22 +47,12 @@ It is more than just a notetaker you can right down that information in a notebo
 
 
 ## 📚 External Resources
-- [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/places) for location-based services.
-- Dog picture for the home section: [Dog Image](https://inspirationseek.com/38-cute-dog-pictures/)
-- Cat picture for the about section: [Cat Image](https://wildlife-photographs.blogspot.com/2013/07/Cat-Cute-Animals.html)
+- [UCR BOOTCAMP](https://bootcampspot.instructure.com/courses/4877/grades) for starter code recived it from our course.
+- [YouTube](https://www.youtube.com/watch?v=vQWlgd7hV4A)
 
-- Additional images and resources:
+- (https://www.youtube.com/results?search_query=Note+Taker+that+can+be+used+to+write+and+save+notes.+This+application+will+use+an+Express.js+back+end+and+will+save+and+retrieve+note+data+from+a+JSON+file.)
   
-  - [Facebook Profile Image](https://www.facebook.com/profile.php?id=61556419702881&mibextid=LQQJ4d)
-  - [Fear Free Happy Homes Image](https://www.fearfreehappyhomes.com/wp-content/uploads/2021/03/bigstock-Young-Woman-Taking-Photo-Of-Cu-374979739.jpg)
-  - [Random Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2LrToBEtSXKSw20rqoDtiyFCe2QvPhP2MFg&usqp=CAU)
-  - [PoweredByStratonautsDogAPI](https://dogapi.dog/terms)
-  - [Dog API](https://dogapi.dog/terms)
-  - [Dog Doctor](https://img.freepik.com/free-vector/cute-dog-doctor-with-stethoscope-cartoon-vector-icon-illustration-animal-healthcare-icon-isolated_138676-5182.jpg?size=626&ext=jpg&ga=GA1.2.243159164.1707266342&semt=ais)
-  - [Cat getting ready to shower](https://assets3.thrillist.com/v1/image/3059921/1584x832/scale;webp=auto;jpeg_quality=60;progressive.jpg)
-  - [Lady Walking Her Dog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzxdNpR31Chfeg38hWzWICEPBWIS88yD0Ew&usqp=CAU)
-  - [Pet Food Img](https://media.istockphoto.com/id/1368129686/vector/pets-with-bowl-food.jpg?s=612x612&w=0&k=20&c=9vV5CZjdchE_w-n0BUt62s_CAVP3Fg_YTT5kNDqTTZA=)
-
+  
 ## License
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
 
